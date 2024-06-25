@@ -15,4 +15,8 @@ Testing code blocks.
 git config --list
 
 ```
+Testing task list.
 
+- [ ] Add a READ.ME to the repository.
+- [ ] Update code from the development branch.
+- [ ] Review code before merging to the main branch.
